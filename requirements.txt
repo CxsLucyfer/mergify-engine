@@ -48,3 +48,4 @@ voluptuous==0.12.1
 watchgod==0.7
 websockets==8.1
 Werkzeug==1.0.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
